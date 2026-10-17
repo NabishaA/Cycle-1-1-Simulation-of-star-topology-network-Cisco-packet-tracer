@@ -1,7 +1,7 @@
 # Cycle-1-----1-Simulation-of-star-topology-network
 # 🖧 Network Simulation using Cisco Packet Tracer
-### REG NO : 212223060177
-### NAME : NABISHA A
+# REG NO : 212223060177
+# NAME : NABISHA A
 # DATE : 17.10.2026
 
 ## 🎯 AIM
